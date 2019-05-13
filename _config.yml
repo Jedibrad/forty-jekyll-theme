@@ -3,7 +3,7 @@ title: Brad MacDonald
 subtitle: Electrical Engineer
 email: bradmacdonald97@gmail.com
 description: My personal website<br /> and blogs.
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
+baseurl: ""
 url: # the base hostname & protocol for your site
 author:
 street_address: 751 Vandenberg Road
