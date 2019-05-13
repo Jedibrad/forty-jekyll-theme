@@ -2,7 +2,7 @@
 title: Brad MacDonald
 subtitle: Electrical Engineer
 email: bradmacdonald97@gmail.com
-description: I'm an electrical engineer focused on embedded systems and computer vision.<br />  I use this website to host interesting projects I've completed and any blog posts I write.
+description: I'm an electrical engineer focused on embedded systems and computer vision. <br />
 baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
