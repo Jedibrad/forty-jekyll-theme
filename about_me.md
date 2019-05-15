@@ -1,33 +1,33 @@
 ---
-layout: post
+layout: landing
 title: About Me
 description: My education, background, and experience.
 image: assets/images/me.jpg
 nav-menu: true
 ---
 
-##Education
+## Education
 * University of Pennsylvania
 * Temple University Honors College
 * deeplearning.ai + Coursera
 
-##Experience
+## Experience
 * Lockheed Martin
 * Multimodal Sensing and Imaging Laboratory
 * Diamond Peer Teaching
 * NASA Robotic Mining Competiton
 
-##Involvements
+## Involvements
 * Institute of Electrical and Electronics Engineers
 * Eta Kappa Nu 
 * ECE Student Advisory Council
 
-##Awards
+## Awards
 * IEEE Leadership Scholarship
 * Dean's List
 * Provost's Scholarship
 
-##Skills
+## Skills
 #### Languages
 * Python
 * Verilog
