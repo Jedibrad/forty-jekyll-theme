@@ -6,4 +6,4 @@ image: assets/images/gallery.jpg
 nav-menu: true
 ---
 
-Photos go here!
+{% include image-gallery.html folder="/assets/gallery" %}
