@@ -11,8 +11,20 @@
     <body>
 
         {% include header.html %}
-
-        <section id="banner" class="style2">
+	
+	{% if page.title == 'About Me' %}
+	<section id="banner" class="style1">
+		
+	{% else if page.title == 'Blog' %}
+	<section id="banner" class="style2">
+	
+	{% else if page.title == 'Gallery' %}
+	<section id="banner" class="style3">
+	
+	{% else %}
+	<section id="banner" class="style4">
+		
+	{% endif %}
             <div class="inner">
                 <span class="image">
                     <img src="{{ site.baseurl }}/{{ page.image }}" alt="">
