@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: landing
 title: Contact
 description: Reach out! I don't bite.
 image: assets/images/contact.jpg
