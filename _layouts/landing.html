@@ -30,8 +30,13 @@
             </div>
         </section>
 
+    {% if page.title == 'Gallery' %}	    
+    {% include image-gallery.html folder="/assets/gallery" %}
+    
+    {% else %}
     {{ content }}
-
+    {% endif %}
+	    
     {% include footer.html %}
 
 </body>
