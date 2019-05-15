@@ -1,5 +1,5 @@
 <section id="one" class="tiles">
-  {% for page in site.pages limit:site.tiles-count %}
+  {% for page in site.pages %}
   {% if page.title == 'About Me' %}
   <article>
     <span class="image">
@@ -13,7 +13,7 @@
   {% endif %}
   {% endfor %}
   
-  {% for page in site.pages limit:site.tiles-count %}
+  {% for page in site.pages %}
   {% if page.title == 'Blog' %}
   <article>
     <span class="image">
@@ -27,7 +27,7 @@
   {% endif %}
   {% endfor %}
   
-  {% for page in site.pages limit:site.tiles-count %}
+  {% for page in site.pages %}
   {% if page.title == 'Projects' %}
   <article>
     <span class="image">
@@ -41,7 +41,7 @@
   {% endif %}
   {% endfor %}
   
-  {% for page in site.pages limit:site.tiles-count %}
+  {% for page in site.pages %}
   {% if page.title == 'Gallery' %}
   <article>
     <span class="image">
