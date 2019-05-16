@@ -18,9 +18,21 @@ nav-menu: true
 
 <!-- Content -->
 <h2 id="content">
-	<img src="assets/images/penn.jpg" width="50" alt="logo" />
+	<img src="assets/images/penn.jpg" height="50" />
 	University of Pennsylvania
 </h2>
+
+<div class="table-wrapper">
+	<table>
+		<thead>
+			<tr>
+				<th> <img src="assets/images/penn.jpg" height="50" /> </th>
+				<th>University of Pennsylvania</th>
+			</tr>
+		</thead>
+	</table>
+</div>
+
 <p>Praesent ac adipiscing ullamcorper semper ut amet ac risus. Lorem sapien ut odio odio nunc. Ac adipiscing nibh porttitor erat risus justo adipiscing adipiscing amet placerat accumsan. Vis. Faucibus odio magna tempus adipiscing a non. In mi primis arcu ut non accumsan vivamus ac blandit adipiscing adipiscing arcu metus praesent turpis eu ac lacinia nunc ac commodo gravida adipiscing eget accumsan ac nunc adipiscing adipiscing.</p>
 
 <h2 id="content">Temple University Honors College</h2>
