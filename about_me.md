@@ -21,7 +21,7 @@ nav-menu: true
 	<table >
 		<thead>
 			<tr>
-				<th class="icon"> <img src="assets/images/penn.jpg" height="50" /> </th>
+				<th class="icon"> <img src="assets/images/penn.jpg" width="50" /> </th>
 				<th> <h2> University of Pennsylvania </h2> </th>
 			</tr>
 		</thead>
