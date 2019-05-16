@@ -23,6 +23,7 @@ nav-menu: true
 			<tr>
 				<th> <img src="assets/images/penn.jpg" height="50" /> </th>
 				<th> <h2> University of Pennsylvania </h2> </th>
+				<th> </th>
 			</tr>
 		</thead>
 	</table>
