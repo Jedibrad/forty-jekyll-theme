@@ -19,12 +19,12 @@ nav-menu: true
 <!-- Content -->
 <div class="table-wrapper">
 	<table >
-		<thead>
+		<tfoot>
 			<tr>
 				<th class="icon"> <img src="assets/images/penn.jpg" width="50" /> </th>
 				<th> <h2> University of Pennsylvania </h2> </th>
 			</tr>
-		</thead>
+		</tfoot>
 	</table>
 </div>
 
