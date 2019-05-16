@@ -17,7 +17,10 @@ nav-menu: true
 		</header>
 
 <!-- Content -->
-<h2 id="content">University of Pennsylvania</h2>
+<h2 id="content">
+	<img src="assets/images/penn.jpg" width="50" alt="logo" />
+	University of Pennsylvania
+</h2>
 <p>Praesent ac adipiscing ullamcorper semper ut amet ac risus. Lorem sapien ut odio odio nunc. Ac adipiscing nibh porttitor erat risus justo adipiscing adipiscing amet placerat accumsan. Vis. Faucibus odio magna tempus adipiscing a non. In mi primis arcu ut non accumsan vivamus ac blandit adipiscing adipiscing arcu metus praesent turpis eu ac lacinia nunc ac commodo gravida adipiscing eget accumsan ac nunc adipiscing adipiscing.</p>
 
 <h2 id="content">Temple University Honors College</h2>
@@ -83,10 +86,8 @@ nav-menu: true
 			<li>Python</li>
 			<li>VHDL / Verilog</li>
 			<li>MATLAB</li>
-			<li>Java</li>
 			<li>LaTeX</li>
 			<li>AVR ASM</li>
-			<li>HTML / CSS</li>
 		</ul>
 	</div>
 	<div class="4u 12u$(medium)">
@@ -98,7 +99,6 @@ nav-menu: true
 			<li>PSoC</li>
 			<li>AVR</li>
 			<li>MSP</li>
-			<li>ESP</li>
 		</ul>
 	</div>
 	<div class="4u$ 12u$(medium)">
