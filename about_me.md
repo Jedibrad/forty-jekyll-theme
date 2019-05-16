@@ -17,13 +17,8 @@ nav-menu: true
 		</header>
 
 <!-- Content -->
-<h2 id="content">
-	<img src="assets/images/penn.jpg" height="50" />
-	University of Pennsylvania
-</h2>
-
 <div class="table-wrapper">
-	<table>
+	<table width="400">
 		<thead>
 			<tr>
 				<th> <img src="assets/images/penn.jpg" height="50" /> </th>
