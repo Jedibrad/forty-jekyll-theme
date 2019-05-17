@@ -27,13 +27,30 @@ nav-menu: true
 		</thead>
 	</table>
 </div>
-
 <p>Praesent ac adipiscing ullamcorper semper ut amet ac risus. Lorem sapien ut odio odio nunc. Ac adipiscing nibh porttitor erat risus justo adipiscing adipiscing amet placerat accumsan. Vis. Faucibus odio magna tempus adipiscing a non. In mi primis arcu ut non accumsan vivamus ac blandit adipiscing adipiscing arcu metus praesent turpis eu ac lacinia nunc ac commodo gravida adipiscing eget accumsan ac nunc adipiscing adipiscing.</p>
 
-<h2 id="content">Temple University Honors College</h2>
+<div class="table-wrapper">
+	<table >
+		<thead>
+			<tr>
+				<th class="icon"> <img src="assets/images/temple.jpg" width="50" /> </th>
+				<th> <h2> Temple University Honors College </h2> </th>
+			</tr>
+		</thead>
+	</table>
+</div>
 <p>Praesent ac adipiscing ullamcorper semper ut amet ac risus. Lorem sapien ut odio odio nunc. Ac adipiscing nibh porttitor erat risus justo adipiscing adipiscing amet placerat accumsan. Vis. Faucibus odio magna tempus adipiscing a non. In mi primis arcu ut non accumsan vivamus ac blandit adipiscing adipiscing arcu metus praesent turpis eu ac lacinia nunc ac commodo gravida adipiscing eget accumsan ac nunc adipiscing adipiscing.</p>
 
-<h2 id="content">deeplearning.ai / Coursera</h2>
+<div class="table-wrapper">
+	<table >
+		<thead>
+			<tr>
+				<th class="icon"> <img src="assets/images/deeplearning.jpg" width="50" /> </th>
+				<th> <h2> Coursera / deeplearning.ai </h2> </th>
+			</tr>
+		</thead>
+	</table>
+</div>
 <p>Praesent ac adipiscing ullamcorper semper ut amet ac risus. Lorem sapien ut odio odio nunc. Ac adipiscing nibh porttitor erat risus justo adipiscing adipiscing amet placerat accumsan. Vis. Faucibus odio magna tempus adipiscing a non. In mi primis arcu ut non accumsan vivamus ac blandit adipiscing adipiscing arcu metus praesent turpis eu ac lacinia nunc ac commodo gravida adipiscing eget accumsan ac nunc adipiscing adipiscing.</p>
 
 <hr class="major" />
@@ -46,13 +63,52 @@ nav-menu: true
 		</header>
 		
 <!-- Content -->
-<h2 id="content">Lockheed Martin</h2>
+<div class="table-wrapper">
+	<table >
+		<thead>
+			<tr>
+				<th class="icon"> <img src="assets/images/lockheed.jpg" width="50" /> </th>
+				<th> <h2> Lockheed Martin </h2> </th>
+			</tr>
+		</thead>
+	</table>
+</div>
 <p>Praesent ac adipiscing ullamcorper semper ut amet ac risus. Lorem sapien ut odio odio nunc. Ac adipiscing nibh porttitor erat risus justo adipiscing adipiscing amet placerat accumsan. Vis. Faucibus odio magna tempus adipiscing a non. In mi primis arcu ut non accumsan vivamus ac blandit adipiscing adipiscing arcu metus praesent turpis eu ac lacinia nunc ac commodo gravida adipiscing eget accumsan ac nunc adipiscing adipiscing.</p>
 
-<h2 id="content">Multimodal Sensing and Imaging Laboratory</h2>
+<div class="table-wrapper">
+	<table >
+		<thead>
+			<tr>
+				<th class="icon"> <img src="assets/images/temple.jpg" width="50" /> </th>
+				<th> <h2> Multimodal Sensing and Imaging Laboratory </h2> </th>
+			</tr>
+		</thead>
+	</table>
+</div>
 <p>Praesent ac adipiscing ullamcorper semper ut amet ac risus. Lorem sapien ut odio odio nunc. Ac adipiscing nibh porttitor erat risus justo adipiscing adipiscing amet placerat accumsan. Vis. Faucibus odio magna tempus adipiscing a non. In mi primis arcu ut non accumsan vivamus ac blandit adipiscing adipiscing arcu metus praesent turpis eu ac lacinia nunc ac commodo gravida adipiscing eget accumsan ac nunc adipiscing adipiscing.</p>
 
-<h2 id="content">Diamond Peer Teaching</h2>
+<div class="table-wrapper">
+	<table >
+		<thead>
+			<tr>
+				<th class="icon"> <img src="assets/images/nasa.jpg" width="50" /> </th>
+				<th> <h2> Diamond Peer Teaching </h2> </th>
+			</tr>
+		</thead>
+	</table>
+</div>
+<p>Praesent ac adipiscing ullamcorper semper ut amet ac risus. Lorem sapien ut odio odio nunc. Ac adipiscing nibh porttitor erat risus justo adipiscing adipiscing amet placerat accumsan. Vis. Faucibus odio magna tempus adipiscing a non. In mi primis arcu ut non accumsan vivamus ac blandit adipiscing adipiscing arcu metus praesent turpis eu ac lacinia nunc ac commodo gravida adipiscing eget accumsan ac nunc adipiscing adipiscing.</p>
+
+<div class="table-wrapper">
+	<table >
+		<thead>
+			<tr>
+				<th class="icon"> <img src="assets/images/temple.jpg" width="50" /> </th>
+				<th> <h2> Diamond Peer Teaching </h2> </th>
+			</tr>
+		</thead>
+	</table>
+</div>
 <p>Praesent ac adipiscing ullamcorper semper ut amet ac risus. Lorem sapien ut odio odio nunc. Ac adipiscing nibh porttitor erat risus justo adipiscing adipiscing amet placerat accumsan. Vis. Faucibus odio magna tempus adipiscing a non. In mi primis arcu ut non accumsan vivamus ac blandit adipiscing adipiscing arcu metus praesent turpis eu ac lacinia nunc ac commodo gravida adipiscing eget accumsan ac nunc adipiscing adipiscing.</p>
 
 <hr class="major" />
@@ -64,16 +120,40 @@ nav-menu: true
 			<h1>Involvements</h1>
 		</header>
 
-<h2 id="content">Institute of Electrical and Electronics Engineers</h2>
+<div class="table-wrapper">
+	<table >
+		<thead>
+			<tr>
+				<th class="icon"> <img src="assets/images/ieee.jpg" width="50" /> </th>
+				<th> <h2> Institute of Electrical and Electronics Engineers </h2> </th>
+			</tr>
+		</thead>
+	</table>
+</div>
 <p>Praesent ac adipiscing ullamcorper semper ut amet ac risus. Lorem sapien ut odio odio nunc. Ac adipiscing nibh porttitor erat risus justo adipiscing adipiscing amet placerat accumsan. Vis. Faucibus odio magna tempus adipiscing a non. In mi primis arcu ut non accumsan vivamus ac blandit adipiscing adipiscing arcu metus praesent turpis eu ac lacinia nunc ac commodo gravida adipiscing eget accumsan ac nunc adipiscing adipiscing.</p>
 
-<h2 id="content">Eta Kappa Nu</h2>
+<div class="table-wrapper">
+	<table >
+		<thead>
+			<tr>
+				<th class="icon"> <img src="assets/images/hkn.jpg" width="50" /> </th>
+				<th> <h2> Eta Kappa Nu </h2> </th>
+			</tr>
+		</thead>
+	</table>
+</div>
 <p>Praesent ac adipiscing ullamcorper semper ut amet ac risus. Lorem sapien ut odio odio nunc. Ac adipiscing nibh porttitor erat risus justo adipiscing adipiscing amet placerat accumsan. Vis. Faucibus odio magna tempus adipiscing a non. In mi primis arcu ut non accumsan vivamus ac blandit adipiscing adipiscing arcu metus praesent turpis eu ac lacinia nunc ac commodo gravida adipiscing eget accumsan ac nunc adipiscing adipiscing.</p>
 
-<h2 id="content">NASA Robotic Mining Competition</h2>
-<p>Praesent ac adipiscing ullamcorper semper ut amet ac risus. Lorem sapien ut odio odio nunc. Ac adipiscing nibh porttitor erat risus justo adipiscing adipiscing amet placerat accumsan. Vis. Faucibus odio magna tempus adipiscing a non. In mi primis arcu ut non accumsan vivamus ac blandit adipiscing adipiscing arcu metus praesent turpis eu ac lacinia nunc ac commodo gravida adipiscing eget accumsan ac nunc adipiscing adipiscing.</p>
-
-<h2 id="content">ECE Student Advisory Council</h2>
+<div class="table-wrapper">
+	<table >
+		<thead>
+			<tr>
+				<th class="icon"> <img src="assets/images/temple.jpg" width="50" /> </th>
+				<th> <h2> ECE Student Advisory Council </h2> </th>
+			</tr>
+		</thead>
+	</table>
+</div>
 <p>Praesent ac adipiscing ullamcorper semper ut amet ac risus. Lorem sapien ut odio odio nunc. Ac adipiscing nibh porttitor erat risus justo adipiscing adipiscing amet placerat accumsan. Vis. Faucibus odio magna tempus adipiscing a non. In mi primis arcu ut non accumsan vivamus ac blandit adipiscing adipiscing arcu metus praesent turpis eu ac lacinia nunc ac commodo gravida adipiscing eget accumsan ac nunc adipiscing adipiscing.</p>
 
 <hr class="major" />
@@ -87,7 +167,16 @@ nav-menu: true
 
 <div class="row">
 	<div class="4u 12u$(medium)">
-		<h3>Languages</h3>
+		<div class="table-wrapper">
+			<table >
+				<thead>
+					<tr>
+						<th class="icon"> <img src="assets/images/temple.jpg" width="50" /> </th>
+						<th> <h3> Languages </h3> </th>
+					</tr>
+				</thead>
+			</table>
+		</div>
 		<ul class="alt">
 			<li>C / C++</li>
 			<li>Python</li>
@@ -98,7 +187,16 @@ nav-menu: true
 		</ul>
 	</div>
 	<div class="4u 12u$(medium)">
-		<h3>Architectures</h3>
+		<div class="table-wrapper">
+			<table >
+				<thead>
+					<tr>
+						<th class="icon"> <img src="assets/images/temple.jpg" width="50" /> </th>
+						<th> <h3> Architectures </h3> </th>
+					</tr>
+				</thead>
+			</table>
+		</div>
 		<ul class="alt">
 			<li>ARM</li>
 			<li>Xilinx SoC</li>
@@ -109,14 +207,23 @@ nav-menu: true
 		</ul>
 	</div>
 	<div class="4u$ 12u$(medium)">
-		<h3>Paradigms</h3>
+		<div class="table-wrapper">
+			<table >
+				<thead>
+					<tr>
+						<th class="icon"> <img src="assets/images/temple.jpg" width="50" /> </th>
+						<th> <h3> Paradigms </h3> </th>
+					</tr>
+				</thead>
+			</table>
+		</div>
 		<ul class="alt">
 			<li>Agile Development</li>
+			<li>Version Control</li>
 			<li>Real-Time Operating Systems</li>
 			<li>Bare-Metal Programming</li>
 			<li>Finite State Machines</li>
 			<li>Functional & Object-Oriented</li>
-			<li>Project Management</li>
 		</ul>
 	</div>
 </div>
