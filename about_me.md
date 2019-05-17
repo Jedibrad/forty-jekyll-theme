@@ -223,7 +223,7 @@ nav-menu: true
 			<li>Real-Time Operating Systems</li>
 			<li>Bare-Metal Programming</li>
 			<li>Finite State Machines</li>
-			<li>Functional & Object-Oriented</li>
+			<li>Red Hat Linux</li>
 		</ul>
 	</div>
 </div>
