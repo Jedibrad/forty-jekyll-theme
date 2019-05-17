@@ -171,7 +171,7 @@ nav-menu: true
 			<table >
 				<thead>
 					<tr>
-						<th class="icon"> <img src="assets/images/temple.jpg" width="50" /> </th>
+						<i class="material-icons" style="font-size:50px;color:white;">code</i>
 						<th> <h3> Languages </h3> </th>
 					</tr>
 				</thead>
@@ -191,7 +191,7 @@ nav-menu: true
 			<table >
 				<thead>
 					<tr>
-						<th class="icon"> <img src="assets/images/temple.jpg" width="50" /> </th>
+						<i class="material-icons" style="font-size:50px;color:white;">dashboard</i>
 						<th> <h3> Architectures </h3> </th>
 					</tr>
 				</thead>
@@ -211,7 +211,7 @@ nav-menu: true
 			<table >
 				<thead>
 					<tr>
-						<th class="icon"> <img src="assets/images/temple.jpg" width="50" /> </th>
+						<i class="material-icons" style="font-size:50px;color:white;">merge_type</i>
 						<th> <h3> Paradigms </h3> </th>
 					</tr>
 				</thead>
