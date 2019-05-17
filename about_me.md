@@ -92,7 +92,7 @@ nav-menu: true
 		<thead>
 			<tr>
 				<th class="icon"> <img src="assets/images/nasa.jpg" width="50" /> </th>
-				<th> <h2> Diamond Peer Teaching </h2> </th>
+				<th> <h2> Nasa Robotic Mining Competition </h2> </th>
 			</tr>
 		</thead>
 	</table>
