@@ -69,13 +69,3 @@ nav-menu: true
 			</div>
 		</div>
 	</section>
-
-<!-- Three -->
-<section id="three">
-	<div class="inner">
-		<header class="major">
-			<h2>And many more to come!</h2>
-		</header>
-		<p>I hope you enjoyed reading through some of the projects I've completed. I'm always looking for new and exciting things to try out; if you have any suggestions, reach out below!</p>
-	</div>
-</section>
