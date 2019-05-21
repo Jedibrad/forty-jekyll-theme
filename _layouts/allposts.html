@@ -13,9 +13,7 @@
     {% include header.html %} 
     
     {% for post in site.posts %}
-    {% if post.title != 404 %}
-	  {% assign my_counter = forloop.length | plus: 1 %}
-    {% endif %}
+	  {% assign my_counter = forloop.length | plus: 2 %}
     {% endfor %}
 	  
     {% assign middle_index = my_counter | divided_by: 2  %}
@@ -53,7 +51,7 @@
 		<blockquote> <p> {{ post.excerpt }} </p> </blockquote> 
 	  	
 		{% if post.excerpt != post.content %}
-    			<a href="{{ site.baseurl }}{{ post.url }}">Read more</a>
+    			<a href="{{ site.baseurl }}{{ post.url }}" class="button">Read more</a>
 		{% endif %}
 	  
 	  {% endif %}
