@@ -29,7 +29,7 @@
 
 		{% if post.date %}<p>{{ post.date }}</p>{% endif %}
 	  	
-		<p>{{ post.excerpt }}</p>
+		<p>{{ <blockquote> post.excerpt </blockquote> }}</p>
 	  	
 		{% if post.excerpt != post.content %}
     			<a href="{{ site.baseurl }}{{ post.url }}">Read more</a>
