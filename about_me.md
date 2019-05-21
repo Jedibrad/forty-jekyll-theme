@@ -14,9 +14,10 @@ nav-menu: true
 
 <!-- One -->
 <section id="one">
-	<header class="major">
-		<h1>Education</h1>
-	</header>
+	<div class="inner">
+		<header class="major">
+			<h1>Education</h1>
+		</header>
 
 <!-- Content -->
 <div class="table-wrapper">
