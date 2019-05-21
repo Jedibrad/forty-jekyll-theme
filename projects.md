@@ -79,5 +79,3 @@ nav-menu: true
 		<p>I hope you enjoyed reading through some of the projects I've completed. I'm always looking for new and exciting things to try out; if you have any suggestions, reach out below!</p>
 	</div>
 </section>
-
-</div>
