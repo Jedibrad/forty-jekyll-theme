@@ -18,6 +18,8 @@
     {% endif %}
     {% endfor %}
 	  
+    {% assign middle_index = my_counter | divided_by: 2  %}
+	  
     <!-- Main -->
     <div id="main" class="alt">
 
@@ -31,7 +33,7 @@
 		    <div class="6u 12u$(medium)">
 		{% endif %}
 		
-		{% if forloop.index == my_counter | divided_by: 2 %}
+		{% if forloop.index == middle_index %}
 		    </div>
 		    <div class="6u$ 12u$(medium)">
 		{% endif %}
@@ -48,10 +50,10 @@
 
 		{% if post.date %}<p>{{ post.date }}</p>{% endif %}
 	  	
-		<p>{{ <blockquote> post.excerpt </blockquote> }}</p>
+		<blockquote> <p> {{ post.excerpt }} </p> </blockquote> 
 	  	
 		{% if post.excerpt != post.content %}
-    			<a href="{{ site.baseurl }}{{ post.url }}">Read more</a>
+    			<a href="{{ site.baseurl }}{{ post.url }}">Read more ...</a>
 		{% endif %}
 	  
 	  {% endif %}
