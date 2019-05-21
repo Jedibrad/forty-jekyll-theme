@@ -9,9 +9,6 @@ nav-menu: true
 <!-- Main -->
 <div id="main" class="alt">
 
-<div class="row 200%">
-<div class="6u 12u$(medium)">
-
 <!-- One -->
 <section id="one">
 	<div class="inner">
@@ -60,8 +57,6 @@ nav-menu: true
 
 </div>
 </section>
-</div>
-<div class="6u$ 12u$(medium)">
 
 <!-- Two -->
 <section id="two">
@@ -123,7 +118,6 @@ nav-menu: true
 
 </div>
 </section>
-</div>
 
 <!-- Three -->
 <section id="three">
