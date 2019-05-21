@@ -60,6 +60,7 @@ nav-menu: true
 
 </div>
 </section>
+</div>
 <div class="6u$ 12u$(medium)">
 
 <!-- Two -->
