@@ -15,7 +15,7 @@ nav-menu: true
 		<header class="major">
 			<h2>I like to explore new technologies and ideas.</h2>
 		</header>
-		<p>This is my space to document personal projects, programs I've contributed to, and teams I've been a part of. I've always loved seeing the cool things people do with in spare time, especially with regards to computer vision and deep learning. My passion lies with embedded systems & software that can do complicated things in real-time with limited hardware.</p>
+		<p>This is my space to document personal projects, programs I've contributed to, and teams I've been a part of. I've always loved seeing the cool things people do with in spare time, especially with regards to computer vision and deep learning. My passion lies with embedded systems & software that can do complicated things in real-time with limited resources.</p>
 	</div>
 </section>
 
@@ -23,12 +23,12 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<a href="generic.html" class="image">
-			<img src="assets/images/rotary.jpg" alt="" data-position="center center" />
+			<img src="assets/images/ml.jpg" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Rotary Phone Pulse to DTMF Encoder</h3>
+					<h3>Machine Learning</h3>
 				</header>
 				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
 				<ul class="actions">
@@ -39,12 +39,12 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="generic.html" class="image">
-			<img src="assets/images/seizure.jpg" alt="" data-position="top center" />
+			<img src="assets/images/embedded.jpg" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>CNN Architecture for Seizure Detection</h3>
+					<h3>Embedded Systems</h3>
 				</header>
 				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
 				<ul class="actions">
@@ -55,12 +55,12 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="generic.html" class="image">
-			<img src="assets/images/glasses.jpg" alt="" data-position="center center" />
+			<img src="assets/images/cv.jpg" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Smartglasses for Amblyopia Patching Compliance</h3>
+					<h3>Computer Vision</h3>
 				</header>
 				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
 				<ul class="actions">
@@ -69,39 +69,6 @@ nav-menu: true
 			</div>
 		</div>
 	</section>
-	<section>
-		<a href="generic.html" class="image">
-			<img src="assets/images/filter.jpg" alt="" data-position="top center" />
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>Xilinx "Zybo" Real-Time Digital Filtering using FreeRTOS</h3>
-				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
-				</ul>
-			</div>
-		</div>
-	</section>
-	<section>
-		<a href="" class="image">
-			<img src="assets/images/website.jpg" alt="Website" data-position="center center" />
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>This Website</h3>
-				</header>
-				<p><a href="">bradmacdonald.me</a> is hosted on GitHub Pages, and was created using Jekyll, a static site generator. The webpage styling is controlled through a combination of HTML, CSS, JavaScript, and Django.</p>
-				<ul class="actions">
-					<li><a href="" class="button">See more</a></li>
-				</ul>
-			</div>
-		</div>
-	</section>
-</section>
 
 <!-- Three -->
 <section id="three">
