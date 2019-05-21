@@ -48,7 +48,7 @@
 
 		{% if post.date %}<p>{{ post.date | date_to_long_string }}</p>{% endif %}
 	  	
-		<blockquote> {{ post.excerpt }} </blockquote> 
+		<blockquote> {{ post.excerpt | remove: '<p>' | remove: '</p>' }} </blockquote> 
 	  	
 		{% if post.excerpt != post.content %}
     			<a href="{{ site.baseurl }}{{ post.url }}" class="button">Read more</a>
