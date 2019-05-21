@@ -14,7 +14,7 @@
     
     {% for post in site.posts %}
     {% if post.title != 404 %}
-	  {% increment my_counter %}
+	  {% assign my_counter = forloop.length + 1 %}
     {% endif %}
     {% endfor %}
 	  
