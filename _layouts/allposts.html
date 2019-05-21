@@ -12,7 +12,12 @@
 
     {% include header.html %} 
     
-    
+    {% for post in site.posts %}
+    {% if post.title != 404 %}
+	  {% increment my_counter %}
+    {% endif %}
+    {% endfor %}
+	  
     <!-- Main -->
     <div id="main" class="alt">
 
@@ -21,6 +26,20 @@
 	<div class="inner">
           {% for post in site.posts %}
 	  {% if post.title != 404 %}
+		{% if forloop.first == true %}
+		    <div class="row 200%">
+		    <div class="6u 12u$(medium)">
+		{% endif %}
+		
+		{% if forloop.index == my_counter | divided_by: 2 %}
+		    </div>
+		    <div class="6u$ 12u$(medium)">
+		{% endif %}
+		
+		{% if forloop.last == true %}
+		    </div>
+		{% endif %}
+		
 	  	<header class="major">
 	  	<h1>{{ post.title }}</h1>
 	  	</header>
